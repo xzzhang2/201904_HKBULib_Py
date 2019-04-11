@@ -11,23 +11,23 @@ This 2-hour lightening workshop makes a whirlwind tour of basics in Python progr
 ## Agenda ##
 1. Python and its involvement with data science
 2. Data processing
- - from raw data to consistent data
+  - from raw data to consistent data
 3. Data exploration (EDA)
- - Importing and knowing your data
-      1. [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), and [Seaborn](https://seaborn.pydata.org/)
-      2. Getting the attributes of the your data
-      3. Case selection
-      4. Basic statistics
-      5. Pivot table
- - Data exploration: exploring the data by visualization
-      1. Univariate (unidimensional) and bivariate (two-way) data visualization
-      2. Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
+  - Importing and knowing your data
+        1. [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), and [Seaborn](https://seaborn.pydata.org/)
+        2. Getting the attributes of the your data
+        3. Case selection
+        4. Basic statistics
+        5. Pivot table
+      - Data exploration: exploring the data by visualization
+        1. Univariate (unidimensional) and bivariate (two-way) data visualization
+        2. Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
 4. Python: a baby step
 
 ## Documents
 1. The [Slide](20190410_Library2019_slide.pptx)
-2. The [Notebook for data processing]()
-3. The [Notebook for data exploration]()
+2. The [Notebook for data processing](https://nbviewer.jupyter.org/github/xzzhang2/201904_HKBULib_Py/blob/master/20190410_HKBULib01_processing.ipynb)
+3. The [Notebook for data exploration](https://nbviewer.jupyter.org/github/xzzhang2/201904_HKBULib_Py/blob/master/20190410_HKBULib02_dataexp.ipynb)
 
 ## About the facilitator
 Dr Xinzhi ZHANG (M.A. & Ph.D., City University of Hong Kong) is a Research Assistant Professor at [JOUR](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/). His research interests include comparative political communication, emerging technologies and social change, digital humanities, and data-driven journalism. His research works have been published on journals such as *Computers in Human Behavior*, *International Political Science Review*, and *Digital Journalism*. He teaches several interdisciplinary courses such as ***Social Media Data Acquisition and Processing with Python*** ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)), ***AI for Digital Communication***, and ***Algorithmic Culture***. He is the Director of the *[Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk/)* at JOUR, and the Director of *[Master Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm)*
