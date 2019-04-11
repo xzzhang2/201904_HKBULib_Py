@@ -12,8 +12,9 @@ This 2-hour lightening workshop makes a whirlwind tour of basics in Python progr
 1. Python and its involvement with data science
 2. Data processing (from raw data to consistent data)
 3. Data exploration (EDA)
-  1. Univariate (unidimensional) and bivariate (two-way) data visualization
-  2. Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
+  - Knowing your data and basic descriptive statistics 
+  - Univariate (unidimensional) and bivariate (two-way) data visualization
+  - Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
 4. Python: a baby step
 
 ## Documents
