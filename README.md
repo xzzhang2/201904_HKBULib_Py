@@ -10,18 +10,10 @@ This 2-hour lightening workshop makes a whirlwind tour of basics in Python progr
 
 ## Agenda ##
 1. Python and its involvement with data science
-2. Data processing
-  - from raw data to consistent data
+2. Data processing (from raw data to consistent data)
 3. Data exploration (EDA)
-  - Importing and knowing your data
-        1. [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), and [Seaborn](https://seaborn.pydata.org/)
-        2. Getting the attributes of the your data
-        3. Case selection
-        4. Basic statistics
-        5. Pivot table
-      - Data exploration: exploring the data by visualization
-        1. Univariate (unidimensional) and bivariate (two-way) data visualization
-        2. Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
+  1. Univariate (unidimensional) and bivariate (two-way) data visualization
+  2. Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
 4. Python: a baby step
 
 ## Documents
