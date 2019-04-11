@@ -1,5 +1,5 @@
-## Hong Kong Baptist University Library Research Tools Workshop Series 2019
-*Basic Python programming for data exploration*
+## Hong Kong Baptist University Library Research Data Tools Series Workshop 2019
+*Basics in Python programming and data exploration*
 
 This repository stores the slides and code examples for a mini workshop on *Basic Python programming for data exploration* ([Event webpage](https://sa.hkbu.edu.hk/ccl/event/CCL18190605)) held at HKBU Library, 10 April 2019.
 
@@ -23,7 +23,7 @@ This 2-hour lightening workshop makes a whirlwind tour of basics in Python progr
 3. The [Notebook for data exploration](https://nbviewer.jupyter.org/github/xzzhang2/201904_HKBULib_Py/blob/master/20190410_HKBULib02_dataexp.ipynb)
 
 ## About the facilitator
-Dr Xinzhi ZHANG (M.A. & Ph.D., City University of Hong Kong) is a Research Assistant Professor at [JOUR](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/). His research interests include comparative political communication, emerging technologies and social change, digital humanities, and data-driven journalism. His research works have been published on journals such as *Computers in Human Behavior*, *International Political Science Review*, and *Digital Journalism*. He teaches several interdisciplinary courses such as ***Social Media Data Acquisition and Processing with Python*** ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)), ***AI for Digital Communication***, and ***Algorithmic Culture***. He is the Director of the *[Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk/)* at JOUR, and the Director of *[Master Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm)*
+Dr Xinzhi ZHANG (M.A. & Ph.D., City University of Hong Kong) is a Research Assistant Professor at [JOUR](http://www.jour.hkbu.edu.hk/faculty-member/dr-xinzhi-zhang/). His research interests include comparative political communication, emerging technologies and social change, digital humanities, and data-driven journalism. His research works have been published on journals such as *Computers in Human Behavior*, *International Political Science Review*, and *Digital Journalism*. He teaches several interdisciplinary courses such as ***Social Media Data Acquisition and Processing with Python*** ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)), ***AI for Digital Communication***, and ***Algorithmic Culture***. He is the Director of the *[Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk/)* at JOUR, and the Director of *[Master Science in AI and Digital Media](http://comd.hkbu.edu.hk/masters/en/aidm).*
 
 ## Acknowledgement  
 The codes in this notebook are modified from various sources, including the official tutorial and tutorial 01. Miss He Can and Mr Xu Chen, both from the Department of Computer Science at Hong Kong Baptist University, helped to fine tune and test the codes. All codes are for educational purposes only and released under the MIT licence.
