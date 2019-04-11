@@ -1,7 +1,7 @@
 ## Hong Kong Baptist University Library Research Tools Workshop Series 2019
 *Basic Python programming for data exploration*
 
-This repository stores the slides and code examples for a mini workshop on *Basic Python programming for data exploration* [Event webpage](https://sa.hkbu.edu.hk/ccl/event/CCL18190605) held at HKBU Library, 10 April 2019.
+This repository stores the slides and code examples for a mini workshop on *Basic Python programming for data exploration* ([Event webpage](https://sa.hkbu.edu.hk/ccl/event/CCL18190605)) held at HKBU Library, 10 April 2019.
 
 ![event poster](libcover.png)
 
@@ -12,9 +12,9 @@ This 2-hour lightening workshop makes a whirlwind tour of basics in Python progr
 1. Python and its involvement with data science
 2. Data processing (from raw data to consistent data)
 3. Data exploration (EDA)
-  - Knowing your data and basic descriptive statistics 
-  - Univariate (unidimensional) and bivariate (two-way) data visualization
-  - Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
+   - Knowing your data and basic descriptive statistics
+   - Univariate (unidimensional) and bivariate (two-way) data visualization
+   - Multivariate (multidimensional) problem-driven data visualization and data-driven exploration
 4. Python: a baby step
 
 ## Documents
